@@ -1,3 +1,4 @@
 <?php
 
-echo "Hello PHP world \n";
+$string = "Hello World. \n";
+echo $string;
